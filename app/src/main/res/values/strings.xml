@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">gps-hiz-olcer</string>
+    <string name="speed">Speed:</string>
+    <string name="hiz">Hız:</string>
+</resources>
