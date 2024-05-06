@@ -2,4 +2,6 @@
     <string name="app_name">gps-hiz-olcer</string>
     <string name="speed">Speed:</string>
     <string name="hiz">Hız:</string>
+    <string name="google_maps_key" translatable="false" templateMergeStrategy="preserve">AIzaSyBiSl7voKMlRFbqgmPVolM6aJz-Pj3N03U</string>
+    <string name="gps_h_z_l_er">GPS Hız Ölçer</string>
 </resources>
